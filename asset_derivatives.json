@@ -1,0 +1,354 @@
+[
+  {
+    "file": "cards/major_00.webp",
+    "source": "cards/major_00.png",
+    "sha256": "e4eb0c337804f49ddea02526ace4bac7cb0d0df71ed2558b5cd4b80a0bb54fd3",
+    "width": 600,
+    "height": 987,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "thumbs/major_00.webp",
+    "source": "cards/major_00.png",
+    "sha256": "a2f1a2bf93fdf4eec6e05a767bb1dd765dffa31b61195bbc49404e22bca58456",
+    "width": 160,
+    "height": 263,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "cards/major_01.webp",
+    "source": "cards/major_01.png",
+    "sha256": "0e8c42dff1384666f13c1bc372e0f131c5f8b2d9e7a4451d912c69df4f396256",
+    "width": 600,
+    "height": 987,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "thumbs/major_01.webp",
+    "source": "cards/major_01.png",
+    "sha256": "1709e408d6427ffe19a9ea21c2a89db9930f038d88c442b73c069c31b63051a1",
+    "width": 160,
+    "height": 263,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "cards/major_02.webp",
+    "source": "cards/major_02.png",
+    "sha256": "ac9283de749c5003c543bde61f2b5b9db5fe476a4f4f31a229c8bbb260f5066d",
+    "width": 600,
+    "height": 987,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "thumbs/major_02.webp",
+    "source": "cards/major_02.png",
+    "sha256": "9171e7c8a1ca001954e286894d8d1250c673b79bb563ab382b741695eac2dae4",
+    "width": 160,
+    "height": 263,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "cards/major_03.webp",
+    "source": "cards/major_03.png",
+    "sha256": "e327f7a14df56e462e8c6520b192ec226da4fa861722b6ca7b6f0a6fde917227",
+    "width": 600,
+    "height": 987,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "thumbs/major_03.webp",
+    "source": "cards/major_03.png",
+    "sha256": "1ae48a8a11fa176fb570882228fa2139d6cc0c1933b019b3c84ecd7c524ce175",
+    "width": 160,
+    "height": 263,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "cards/major_04.webp",
+    "source": "cards/major_04.png",
+    "sha256": "3bd4f6fbb72206826b9c5adeb3ab4ccb1db917d00d54f01ff62bb6cb6253c476",
+    "width": 600,
+    "height": 987,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "thumbs/major_04.webp",
+    "source": "cards/major_04.png",
+    "sha256": "7052e528743e5e9e3acd352caca0ecc4a1e7d08a6db8fc8e3adbececd58ebcfe",
+    "width": 160,
+    "height": 263,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "cards/major_05.webp",
+    "source": "cards/major_05.png",
+    "sha256": "9b12df3ddee4e10900ad639b9f9cd0ba8a10f3ee9d5603deac95a365de2b6e75",
+    "width": 600,
+    "height": 987,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "thumbs/major_05.webp",
+    "source": "cards/major_05.png",
+    "sha256": "c3f1a70f6573e91633ce1cbfa3a86ade744e4dbd147055980bae4cea0dd256ba",
+    "width": 160,
+    "height": 263,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "cards/major_06.webp",
+    "source": "cards/major_06.png",
+    "sha256": "609280977dc9487a48d98191ff5501f922e2b00dc9bb05ddaec4b4a1c80d5381",
+    "width": 600,
+    "height": 987,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "thumbs/major_06.webp",
+    "source": "cards/major_06.png",
+    "sha256": "5d9a9930a6c9ed54d64f2648fbf38f468c1c3c26feb29f5e1cb81c25d66e6e85",
+    "width": 160,
+    "height": 263,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "cards/major_07.webp",
+    "source": "cards/major_07.png",
+    "sha256": "2cd5e94ed651f04b23e704c55cc66112dd9a29f52017d259156b4230b8d4e1ec",
+    "width": 600,
+    "height": 987,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "thumbs/major_07.webp",
+    "source": "cards/major_07.png",
+    "sha256": "a45d58814e587143cbf5be3ae1cb62aee11f5188e7a1eaa59855f6a91d53cd58",
+    "width": 160,
+    "height": 263,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "cards/major_08.webp",
+    "source": "cards/major_08.png",
+    "sha256": "56e28edcd29d96f703175c77525cf2d7ac261e9dd77fbc8adc294c52f67d0234",
+    "width": 600,
+    "height": 987,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "thumbs/major_08.webp",
+    "source": "cards/major_08.png",
+    "sha256": "bcbae9daea57099ba1aed2f0cf35020deebc259dbf64ad9669f2820ba519b0b7",
+    "width": 160,
+    "height": 263,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "cards/major_09.webp",
+    "source": "cards/major_09.png",
+    "sha256": "9f24090bd14b16ec081d5e1b9cc0b32cea9ef92ae2e42e82379ce96fb56e650e",
+    "width": 600,
+    "height": 987,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "thumbs/major_09.webp",
+    "source": "cards/major_09.png",
+    "sha256": "80af46e22f3b0fd295b9ef91d2ed67883d82ad55f4e163b5e350260e8c81a643",
+    "width": 160,
+    "height": 263,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "cards/major_10.webp",
+    "source": "cards/major_10.png",
+    "sha256": "ab3d0db5b94f7e876b1737c1a02f14f7337bb4fb965ea9296734097cc14ee366",
+    "width": 600,
+    "height": 987,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "thumbs/major_10.webp",
+    "source": "cards/major_10.png",
+    "sha256": "66950bb9b14648b44faa4854fb5165189027fef5d62804f13aded6400b259fba",
+    "width": 160,
+    "height": 263,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "cards/major_11.webp",
+    "source": "cards/major_11.png",
+    "sha256": "aea174ab1a8779f452580d786e94981d6d4ba95069747acfed38f876764fadee",
+    "width": 600,
+    "height": 987,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "thumbs/major_11.webp",
+    "source": "cards/major_11.png",
+    "sha256": "d25fe887a694065b412d8c9492d6370ddc732ad77baba7d63ed8ebd3400452fd",
+    "width": 160,
+    "height": 263,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "cards/major_12.webp",
+    "source": "cards/major_12.png",
+    "sha256": "080bf4aa0d2c68059a78c1ca1b120f72679094b89f9f41256721ba28cb33bbd5",
+    "width": 600,
+    "height": 987,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "thumbs/major_12.webp",
+    "source": "cards/major_12.png",
+    "sha256": "b05cf6387c6b2854293202b40c5abc6f15561d96225a06cf12eb0b8ef282351c",
+    "width": 160,
+    "height": 263,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "cards/major_13.webp",
+    "source": "cards/major_13.png",
+    "sha256": "92234c82a62d8c7aa8326321741ca8a4c81e37a2e52c6b812ac68c71be9f8614",
+    "width": 600,
+    "height": 987,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "thumbs/major_13.webp",
+    "source": "cards/major_13.png",
+    "sha256": "dec88defa741a302e8f3a72c288b1bcf33cba2dfa038f787abbf0759e0cd99a3",
+    "width": 160,
+    "height": 263,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "cards/major_14.webp",
+    "source": "cards/major_14.png",
+    "sha256": "df256661bcd8daaf89d7d8779e8170c6020b2b3480128ae4d54460d3f9afd5ef",
+    "width": 600,
+    "height": 987,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "thumbs/major_14.webp",
+    "source": "cards/major_14.png",
+    "sha256": "366661e209c3acf2b6c16b7619b181952cddeffc05e58d3e6afbd2bf71618969",
+    "width": 160,
+    "height": 263,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "cards/major_15.webp",
+    "source": "cards/major_15.png",
+    "sha256": "50eac3ab4c99a809a7bb73bf2d28e04bf4c6f02636cc19c636efbb3e9a6ef2d1",
+    "width": 600,
+    "height": 987,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "thumbs/major_15.webp",
+    "source": "cards/major_15.png",
+    "sha256": "4ce645a753ba7f2e0acbf32aa4856d8ecfe8db7b36af72209ee6119635ea5616",
+    "width": 160,
+    "height": 263,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "cards/major_16.webp",
+    "source": "cards/major_16.png",
+    "sha256": "fef186ab4a2ceb2a9fae16d6e139b81a9ea6f266de3a7309fc0cb3792772f223",
+    "width": 600,
+    "height": 987,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "thumbs/major_16.webp",
+    "source": "cards/major_16.png",
+    "sha256": "4491c339409ad9ff53cdadd90d553a0d48bc122d0ab3dbe8785b297fb242d005",
+    "width": 160,
+    "height": 263,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "cards/major_17.webp",
+    "source": "cards/major_17.png",
+    "sha256": "929fc13e0a69c0e15e8c825c3b3fa49ed4a99eccc3811d7c24e9ef293808a8b8",
+    "width": 600,
+    "height": 987,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "thumbs/major_17.webp",
+    "source": "cards/major_17.png",
+    "sha256": "c6631aea21156df6a62aa962128bd237860dc2a536c86e0447e9e466d447f74a",
+    "width": 160,
+    "height": 263,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "cards/major_18.webp",
+    "source": "cards/major_18.png",
+    "sha256": "f8ccf9c798eb44915fadeea5d2ddb1c63157c275a0ada30844526ee2f6c95c77",
+    "width": 600,
+    "height": 987,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "thumbs/major_18.webp",
+    "source": "cards/major_18.png",
+    "sha256": "cd4f268de746f1ed5fdcb7481d4fc0e447204dabfb0b7e77022c746494cdf54f",
+    "width": 160,
+    "height": 263,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "cards/major_19.webp",
+    "source": "cards/major_19.png",
+    "sha256": "5f87ebf1cf7c8840e6723235d9c9b83bd0b782ba1420fa6775205133e2789dbe",
+    "width": 600,
+    "height": 987,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "thumbs/major_19.webp",
+    "source": "cards/major_19.png",
+    "sha256": "fa6b6fe113957aa7d5c9044629306ff776a9067887ccd5547ff655c27e02d272",
+    "width": 160,
+    "height": 263,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "cards/major_20.webp",
+    "source": "cards/major_20.png",
+    "sha256": "4d7305872ab822eeb68a4548d8b61f8275982a3fdefa040f31d1dfeafd849c71",
+    "width": 600,
+    "height": 987,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "thumbs/major_20.webp",
+    "source": "cards/major_20.png",
+    "sha256": "f502f114b94f092458cffddc2c4e6b73e1e780159bee225d760f848c732d3839",
+    "width": 160,
+    "height": 263,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "cards/major_21.webp",
+    "source": "cards/major_21.png",
+    "sha256": "0e6de68e160807207c87ccbe6c12e67a0e8ab6e6b10f901a390047fa2b0c0554",
+    "width": 600,
+    "height": 987,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  },
+  {
+    "file": "thumbs/major_21.webp",
+    "source": "cards/major_21.png",
+    "sha256": "b6d31f2aa1e2383ee3c2d52654d495f321576eef7725061b892de09edf94dbe1",
+    "width": 160,
+    "height": 263,
+    "rights": "Предоставлено пользователем; права для публичного распространения требуют проверки владельцем"
+  }
+]

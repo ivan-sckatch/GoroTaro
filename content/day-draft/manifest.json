@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "day-draft-1",
+  "status": "draft",
+  "approvedForProduction": false,
+  "deckId": "major22",
+  "locale": "ru",
+  "orientationMode": "off",
+  "mode": "EXACT",
+  "declaredCoverage": 22,
+  "checksums": {
+    "cards.json": "0c3cec6874b1f9bd2b950ad41f82fe60664767a7cb6af8af853a52cc49f4e7b2",
+    "spreads.json": "222fba3a31bec3ec566c5994f57f16bad1de3e31281d48e3a03a096c957caa06",
+    "interpretations.jsonl": "cf2ca266f455246570a3a72ee86ebf1388caaef68ebd17f61e0c1d535805806e"
+  }
+}

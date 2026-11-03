@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.gorotaro.domain.EngineTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2026-10-02T09:13:18" hostname="PC" time="0.373">
+  <properties/>
+  <testcase name="duplicateFullTextAndUnknownCardsFail" classname="ru.gorotaro.domain.EngineTest" time="0.056"/>
+  <testcase name="shuffledOrderChangesKey" classname="ru.gorotaro.domain.EngineTest" time="0.001"/>
+  <testcase name="coverageRequiresAllOrderedKeysAndApproval" classname="ru.gorotaro.domain.EngineTest" time="0.09"/>
+  <testcase name="invalidConfigurationFails" classname="ru.gorotaro.domain.EngineTest" time="0.015"/>
+  <testcase name="bagsUseEveryVariantAndAvoidCycleBoundaryRepeats" classname="ru.gorotaro.domain.EngineTest" time="0.055"/>
+  <testcase name="userPlaceholdersAreSubstitutedOnlyOnce" classname="ru.gorotaro.domain.EngineTest" time="0.006"/>
+  <testcase name="fixedSeedDistributionDiagnostic" classname="ru.gorotaro.domain.EngineTest" time="0.124"/>
+  <testcase name="boundariesUseLocalDates" classname="ru.gorotaro.domain.EngineTest" time="0.008"/>
+  <testcase name="drawsHaveNoRepeatsAndKeepPositionOrder" classname="ru.gorotaro.domain.EngineTest" time="0.014"/>
+  <testcase name="decisionsEnforceLimitsAndTrim" classname="ru.gorotaro.domain.EngineTest" time="0.003"/>
+  <system-out><![CDATA[Distribution diagnostic: seed=20261002 draws=110000 chiSquared=17.3152 threshold=60
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

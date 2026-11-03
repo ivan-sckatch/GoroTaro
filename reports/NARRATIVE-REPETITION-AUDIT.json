@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-02",
+  "scope": "Android / RuStore; duplication within one result",
+  "evidenceType": "Existing editorial example and static inspection of current Kotlin source; not user analytics",
+  "sample": {
+    "cards": [
+      "major_01:up",
+      "major_09:rev",
+      "major_19:up"
+    ],
+    "source": "Historical engine-4 example from reports/NARRATIVE-EXAMPLES.md before redesign; original sources archived in reports/baseline-2026-11-02/sources-before-redesign.zip",
+    "summaryCharacters": 1719,
+    "summaryWords": 230,
+    "paragraphs": 6,
+    "goalOccurrencesWithinSummary": [
+      {
+        "card": "major_01",
+        "goal": "превратить замысел в конкретное действие",
+        "count": 2
+      },
+      {
+        "card": "major_09",
+        "goal": "вернуть равновесие между уединением и общением",
+        "count": 3
+      },
+      {
+        "card": "major_19",
+        "goal": "признать результат и действовать открыто",
+        "count": 1
+      }
+    ]
+  },
+  "structuralDuplication": {
+    "generalActionIncludesApproach": true,
+    "generalSummaryEndsWithSameApproach": true,
+    "conclusion": "The same approach sentence is included in the general summary and useful-action block for the same new COMPOSED result. Variant rotation does not remove this duplication."
+  },
+  "limitations": [
+    "Single editorial example for length and goal counts; not an estimate of all generated text lengths.",
+    "No interviews or new participant tests were conducted.",
+    "Two user-reported signals: doubts about daily/weekly utility and repetition within one general reading."
+  ]
+}

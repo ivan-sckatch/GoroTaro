@@ -1,0 +1,13 @@
+{
+  "expected": 22,
+  "present": 22,
+  "approved": 0,
+  "coveragePercent": 100.0,
+  "perSpread": {
+    "day1": 22
+  },
+  "errors": [],
+  "warnings": [],
+  "missingExamples": [],
+  "productionReady": false
+}

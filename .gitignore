@@ -1,0 +1,14 @@
+.tools/
+.gradle/
+**/build/
+local.properties
+*.iml
+.idea/
+spec-extracted.txt
+__pycache__/
+dist/
+reports/*.db*
+reports/*.log
+reports/qa-release.apk*
+reports/home-*.png
+reports/large-screenshots/

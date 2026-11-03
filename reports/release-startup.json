@@ -1,0 +1,14 @@
+{
+  "build": "release, signed with test key for local QA",
+  "device": "Pixel 2 AVD, Android 15, x86_64, 2048 MiB RAM, WHPX, SwiftShader",
+  "metric": "am start -W TotalTime (TTID), process force-stopped before each run; filesystem caches remain warm",
+  "measurementsMs": [
+    656,
+    853,
+    966,
+    838,
+    994
+  ],
+  "medianMs": 853,
+  "isReferencePhoneAcceptance": false
+}
