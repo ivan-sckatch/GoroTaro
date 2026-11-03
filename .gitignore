@@ -1,9 +1,32 @@
 .tools/
 .gradle/
+.kotlin/
 **/build/
+.externalNativeBuild/
+.cxx/
+captures/
 local.properties
 *.iml
 .idea/
+
+# Generated Android packages
+*.apk
+*.aab
+*.ap_
+*.dex
+*.hprof
+
+# Signing keys and local signing configuration
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+
+# Local operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
 spec-extracted.txt
 __pycache__/
 dist/
